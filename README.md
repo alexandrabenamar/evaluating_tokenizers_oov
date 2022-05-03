@@ -48,5 +48,5 @@ You can add other newspapers using the format ("name of the paper", "gallica lin
 
 ## Evaluation Metrics
 
-
+Two evaluation metrics are implemented in the file ``src/evaluating_tokenizers_oov/eval/eval_metrics.py`` : Dice coefficient and Dice-SU coefficient, presented in the paper.
 
